@@ -35,7 +35,7 @@ All designs implemented in **VHDL**.
 
 ### Experiment 1 — Edge Detection for Lane Detection
 
-![Experiment 1](images/experiment1.jpg)
+![Experiment 1](images/experiment1.png)
 
 Implemented **Sobel matrix-based edge detection** for identifying lane markings in images. This forms the core of the lane detection pipeline.
 
@@ -61,7 +61,7 @@ Designed and validated a **FIR (Finite Impulse Response) filter** on FPGA for a 
 
 ### Experiment 3 — Sleep Mode via Temporal Scanning
 
-![Experiment 3](images/experiment3.jpg)
+![Experiment 3](images/experiment3.png)
 
 Implemented a **power-saving "sleep mode"** using temporal scanning to disable the top 270 lines of the image frame. This novel approach reduces active processing cycles and demonstrates practical power–performance trade-offs on FPGA.
 
