@@ -87,23 +87,6 @@ Implemented a **power-saving "sleep mode"** using temporal scanning to disable t
 
 ---
 
-## 📁 Project Structure
-
-```
-├── experiment1_edge_detection/
-│   └── sobel_edge_detect.vhd
-├── experiment2_fir_filter/
-│   └── fir_filter.vhd
-├── experiment3_sleep_mode/
-│   └── sleep_mode_fsm.vhd
-├── images/
-│   ├── experiment1.jpg
-│   ├── experiment2.jpg
-│   └── experiment3.jpg
-└── README.md
-```
-
----
 
 ## 🙌 Acknowledgements
 
