@@ -1,8 +1,5 @@
-[README.md](https://github.com/user-attachments/files/32197293/README.md)
-# 🚗 Lane Detection on FPGA — FPGA Vision Remote Lab
 
-![FPGA Lane Detection](images/experiment_overview.jpg)
-<!-- Replace with your actual image paths -->
+# 🚗 Lane Detection on FPGA — FPGA Vision Remote Lab
 
 A 3-month open-access course project in digital FPGA design, completed remotely through the **FPGA Vision Remote Lab** at **Hochschule Bonn-Rhein-Sieg (H-BRS), Germany**. All designs were developed and validated on real FPGA hardware — programmed and operated entirely remotely via server infrastructure.
 
@@ -29,6 +26,7 @@ More about the lab: [Prof. Dr. Marco Winzker — YouTube Channel](https://www.yo
 | Intel Cyclone V | Altera/Intel FPGA |
 | Additional H-BRS Remote Lab Boards | Various FPGA platforms |
 
+All hardware is in a remote lab.
 All designs implemented in **VHDL**.
 
 ---
